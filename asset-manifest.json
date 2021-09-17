@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Auraglow/static/css/main.41589497.chunk.css",
+    "main.js": "/Auraglow/static/js/main.1c1a8cd2.chunk.js",
+    "main.js.map": "/Auraglow/static/js/main.1c1a8cd2.chunk.js.map",
+    "runtime-main.js": "/Auraglow/static/js/runtime-main.c0e3d352.js",
+    "runtime-main.js.map": "/Auraglow/static/js/runtime-main.c0e3d352.js.map",
+    "static/js/2.8c3fb11f.chunk.js": "/Auraglow/static/js/2.8c3fb11f.chunk.js",
+    "static/js/2.8c3fb11f.chunk.js.map": "/Auraglow/static/js/2.8c3fb11f.chunk.js.map",
+    "index.html": "/Auraglow/index.html",
+    "static/css/main.41589497.chunk.css.map": "/Auraglow/static/css/main.41589497.chunk.css.map",
+    "static/js/2.8c3fb11f.chunk.js.LICENSE.txt": "/Auraglow/static/js/2.8c3fb11f.chunk.js.LICENSE.txt",
+    "static/media/Five.css": "/Auraglow/static/media/five.7680d488.png",
+    "static/media/Header.css": "/Auraglow/static/media/header.6ebcb22a.png",
+    "static/media/Six.css": "/Auraglow/static/media/six-two.3abfb854.png",
+    "static/media/Three.css": "/Auraglow/static/media/three-two.6d637f4d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0e3d352.js",
+    "static/js/2.8c3fb11f.chunk.js",
+    "static/css/main.41589497.chunk.css",
+    "static/js/main.1c1a8cd2.chunk.js"
+  ]
+}
