@@ -1,0 +1,110 @@
+.three {
+    width: 1440px;
+    height: 1510px;
+    margin: 0 auto;
+    padding: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.three_block_one {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 150px;
+}
+
+.three_block_foto {
+    width:427px;
+    height:500px;
+    background-image: url(../Images/three-one.png);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 100px;
+}
+
+.three_block_fotos {
+    width:427px;
+    height:500px;
+    background-image: url(../Images/three-three.png);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.three_block_fotos h1 {
+    color: white;
+    font-size: 45px;
+    line-height: 50px;
+ }
+
+.three_block_foto h1 {
+   color: white;
+   font-size: 45px;
+}
+
+.three_block_book{
+    width: 855px;
+    height: 500px;
+    background: #9ECFE67D;
+    display: flex;
+    flex-direction: column;
+}
+
+.three_block_books{
+    width: 855px;
+    height: 500px;
+    background: #EDF3F6;
+    display: flex;
+    flex-direction: column;
+}
+
+.pay {
+    height: 50px;
+    text-align: start;
+    margin-left: 40px;
+    padding-top: 28px;
+}
+
+.img {
+    margin-top: -40px;
+    width: 476px;
+    height: 562px;
+    background-image: url(../Images/three-two.png);
+    background-size: cover;
+    margin-left: 210px;
+}
+
+.img_two {
+    margin-top: -110px;
+    width: 576px;
+    height: 662px;
+    background-image: url(../Images/three-fore.png);
+    background-size: cover;
+    margin-left: 160px;
+}
+
+.pay h1{
+   font-size: 24px;
+}
+
+.pay p{
+    font-size: 18px;
+    color: #08263F99;
+ }
+
+.three_button{
+    width: 775px;
+    height: 54px;
+    background: #225B93;
+    border-radius: 27px;
+    border:none;
+    font-size: 16px;
+    color: white;
+    margin-bottom: 40px;
+}

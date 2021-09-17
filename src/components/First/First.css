@@ -1,0 +1,23 @@
+.first {
+    width: 1440px;
+    height: 519px;
+    margin: 0 auto;
+    padding: 0 auto;
+    background: #08263F;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.first_words{
+    width: 831px;
+    height: 184px;
+    color: #FFFFFF;
+}
+
+.first_title {
+    color: #FED097;
+    font-size: 19px;
+}

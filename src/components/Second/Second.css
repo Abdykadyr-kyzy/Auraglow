@@ -1,0 +1,35 @@
+.second {
+    width: 1440px;
+    height: 432px;
+    margin: 0 auto;
+    padding: 0 auto;
+    display: flex;
+    flex-direction: column;
+    background: #EDF3F6;
+    justify-content: center;
+}
+
+.second_blocks {
+    display: flex;
+    justify-content: space-around;
+}
+
+.second_block {
+    width: 310px;
+    height: 232px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
+
+.second_block img{
+   width: 35px;
+   height: 35px;
+} 
+
+.second_block p {
+    width: 279px;
+    height: 72px;
+    font-size: 16px;
+    line-height: 24px;
+}
